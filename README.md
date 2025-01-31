@@ -2,6 +2,9 @@
 
 Welcome to **The Impossible Clicker Math Game**, a thought experiment that pushes the boundaries of computation, physics, and cosmology. This game isn't just challenging—it's theoretically impossible within our current understanding of the universe.
 
+![image](https://github.com/user-attachments/assets/635ed4c1-f17d-4d96-b9f3-2fff39bda177)
+
+
 ## Table of Contents
 
 1. [Introduction](#introduction)
